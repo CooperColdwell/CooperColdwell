@@ -59,5 +59,5 @@ class Me(ML Researcher):
 &nbsp; <a href="https://scholar.google.com/citations?user=mDLCO-kAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"><img width="50" height="50" src="https://img.icons8.com/color/50/google-scholar--v3.png" alt="google-scholar--v3"/></a>
 </p>
 <p align="center">
-<img src="./figures/wrong.jpeg" width="600"/>
+<img src="./figures/wrong.jpg" width="600"/>
 </p>
