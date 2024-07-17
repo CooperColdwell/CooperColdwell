@@ -17,7 +17,8 @@ class Me(ML Researcher):
         self.model    = ["Autoencoder", "GAN"]
         self.research = ["Super-resolution", "Efficient Computing",
                          "Self-Supervised Learning",
-                         "Computer Vision", "Reinforcement Learning"]
+                         "Computer Vision", "Reinforcement Learning",
+                         "Mechanistic interpretability"]
         self.interest = ["Bonsai", "Fast Cars"]
         
 ```
