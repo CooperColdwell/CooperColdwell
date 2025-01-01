@@ -19,7 +19,7 @@ class Me(ML Researcher):
                          "Self-Supervised Learning",
                          "Computer Vision", "Reinforcement Learning",
                          "Mechanistic interpretability"]
-        self.interest = ["Bonsai", "Fast Cars"]
+        self.interest = ["Bonsai", "Fast Cars", "3D-Printing]
         
 ```
 
@@ -46,11 +46,13 @@ class Me(ML Researcher):
 ![Colab](https://img.shields.io/badge/IDE-Jupyter_Notebook-informational?style=flat&logo=googlecolab&logoColor=white&color=9d2235)
 ![Anaconda](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=9d2235)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=9d2235)
+![Fusion360](https://img.shields.io/badge/Tools-Fusion360-informational?style=flat&logo=autodesk&logoColor=white&color=9d2235)
 
 **Publication Outlets:**    
 ![IEEE](https://img.shields.io/badge/Pub-IEEE-informational?style=flat&logo=ieee&logoColor=white&color=9d2235)
 ![SPIE](https://img.shields.io/badge/SPIE_Pub-SPIE-informational?style=flat&color=9d2235)
 ![GitHub](https://img.shields.io/badge/Pub-GitHub-informational?style=flat&logo=github&logoColor=white&color=9d2235)
+![MakerWorld](https://img.shields.io/badge/Pub-MakerWorld-informational?style=flat&logo=bambulab&logoColor=white&color=9d2235)
 
 ## Connect with Me <img src="./figures/cat5.gif" width="40px">
 
